@@ -2,7 +2,7 @@
 
 **Objective:** The goal of this model is to classify news articles as either fake or real using machine learning techniques.
 
-**Dataset:** The dataset used is "fake_or_real_news.csv," which contains news articles labeled as "FAKE" or "REAL."
+**Dataset:** The dataset used is "fake_or_real_news.csv," which contains news articles labeled as "FAKE" or "REAL." The dataset is in zip format you would have to unzip the dataset in order to run it...
 
 ## Preprocessing:
 
